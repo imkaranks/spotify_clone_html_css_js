@@ -1,0 +1,436 @@
+{
+	"focus": [
+		{
+			"id": 1,
+			"name": "peaceful piano",
+			"desc": "Lorem ipsum dolor sit amet consectetur.",
+			"img": "./assets/thumbnail (1).jpg",
+			"songs": [
+				{
+					"id": 1,
+					"title": "Au5 last heroes lush",
+					"artist": "NCS",
+					"duration": "5:00",
+					"src": "./songs/Au5-Last-Heroes-Lush.mp3"
+				},
+				{
+					"id": 2,
+					"title": "dirty palm oblivion",
+					"artist": "NCS",
+					"duration": "4:50",
+					"src": "./songs/Dirty-Palm-Oblivion.mp3"
+				},
+				{
+					"id": 3,
+					"title": "DJ-assass1n frag out",
+					"artist": "NCS",
+					"duration": "4:29",
+					"src": "./songs/DJ-ASSASS1N-Frag-Out.mp3"
+				},
+				{
+					"id": 4,
+					"title": "elektromia vitality",
+					"artist": "NCS",
+					"duration": "4:11",
+					"src": "./songs/Elektronomia-Vitality.mp3"
+				},
+				{
+					"id": 5,
+					"title": "inushuk the long road home",
+					"artist": "NCS",
+					"duration": "3:11",
+					"src": "./songs/Au5-Last-Heroes-Lush.mp3"
+				}
+			]
+		},
+		{
+			"id": 2,
+			"name": "deep focus",
+			"desc": "Lorem ipsum dolor sit amet consectetur.",
+			"img": "./assets/thumbnail (2).jpg",
+			"songs": [
+				{
+					"id": 1,
+					"title": "dirty palm oblivion",
+					"artist": "NCS",
+					"duration": "4:50",
+					"src": "./songs/Dirty-Palm-Oblivion.mp3"
+				},
+				{
+					"id": 2,
+					"title": "Au5 last heroes lush",
+					"artist": "NCS",
+					"duration": "5:00",
+					"src": "./songs/Au5-Last-Heroes-Lush.mp3"
+				},
+				{
+					"id": 3,
+					"title": "DJ-assass1n frag out",
+					"artist": "NCS",
+					"duration": "4:29",
+					"src": "./songs/DJ-ASSASS1N-Frag-Out.mp3"
+				},
+				{
+					"id": 4,
+					"title": "inushuk the long road home",
+					"artist": "NCS",
+					"duration": "3:11",
+					"src": "./songs/Au5-Last-Heroes-Lush.mp3"
+				},
+				{
+					"id": 5,
+					"title": "elektromia vitality",
+					"artist": "NCS",
+					"duration": "4:11",
+					"src": "./songs/Elektronomia-Vitality.mp3"
+				}
+			]
+		},
+		{
+			"id": 3,
+			"name": "instrumental",
+			"desc": "Lorem ipsum dolor sit amet consectetur.",
+			"img": "./assets/thumbnail (3).jpg",
+			"songs": [
+				{
+					"id": 1,
+					"title": "DJ-assass1n frag out",
+					"artist": "NCS",
+					"duration": "4:29",
+					"src": "./songs/DJ-ASSASS1N-Frag-Out.mp3"
+				},
+				{
+					"id": 2,
+					"title": "Au5 last heroes lush",
+					"artist": "NCS",
+					"duration": "5:00",
+					"src": "./songs/Au5-Last-Heroes-Lush.mp3"
+				},
+				{
+					"id": 3,
+					"title": "dirty palm oblivion",
+					"artist": "NCS",
+					"duration": "4:50",
+					"src": "./songs/Dirty-Palm-Oblivion.mp3"
+				},
+				{
+					"id": 4,
+					"title": "elektromia vitality",
+					"artist": "NCS",
+					"duration": "4:11",
+					"src": "./songs/Elektronomia-Vitality.mp3"
+				},
+				{
+					"id": 5,
+					"title": "inushuk the long road home",
+					"artist": "NCS",
+					"duration": "3:11",
+					"src": "./songs/Au5-Last-Heroes-Lush.mp3"
+				}
+			]
+		},
+		{
+			"id": 4,
+			"name": "jazz vibes",
+			"desc": "Lorem ipsum dolor sit amet consectetur.",
+			"img": "./assets/thumbnail (4).jpg",
+			"songs": [
+				{
+					"id": 1,
+					"title": "elektromia vitality",
+					"artist": "NCS",
+					"duration": "4:11",
+					"src": "./songs/Elektronomia-Vitality.mp3"
+				},
+				{
+					"id": 2,
+					"title": "Au5 last heroes lush",
+					"artist": "NCS",
+					"duration": "5:00",
+					"src": "./songs/Au5-Last-Heroes-Lush.mp3"
+				},
+				{
+					"id": 3,
+					"title": "dirty palm oblivion",
+					"artist": "NCS",
+					"duration": "4:50",
+					"src": "./songs/Dirty-Palm-Oblivion.mp3"
+				},
+				{
+					"id": 4,
+					"title": "DJ-assass1n frag out",
+					"artist": "NCS",
+					"duration": "4:29",
+					"src": "./songs/DJ-ASSASS1N-Frag-Out.mp3"
+				},
+				{
+					"id": 5,
+					"title": "inushuk the long road home",
+					"artist": "NCS",
+					"duration": "3:11",
+					"src": "./songs/Au5-Last-Heroes-Lush.mp3"
+				}
+			]
+		},
+		{
+			"id": 5,
+			"name": "focus flow",
+			"desc": "Lorem ipsum dolor sit amet consectetur.",
+			"img": "./assets/thumbnail (5).jpg",
+			"songs": [
+				{
+					"id": 1,
+					"title": "inushuk the long road home",
+					"artist": "NCS",
+					"duration": "3:11",
+					"src": "./songs/Au5-Last-Heroes-Lush.mp3"
+				},
+				{
+					"id": 2,
+					"title": "Au5 last heroes lush",
+					"artist": "NCS",
+					"duration": "5:00",
+					"src": "./songs/Au5-Last-Heroes-Lush.mp3"
+				},
+				{
+					"id": 3,
+					"title": "dirty palm oblivion",
+					"artist": "NCS",
+					"duration": "4:50",
+					"src": "./songs/Dirty-Palm-Oblivion.mp3"
+				},
+				{
+					"id": 4,
+					"title": "DJ-assass1n frag out",
+					"artist": "NCS",
+					"duration": "4:29",
+					"src": "./songs/DJ-ASSASS1N-Frag-Out.mp3"
+				},
+				{
+					"id": 5,
+					"title": "elektromia vitality",
+					"artist": "NCS",
+					"duration": "4:11",
+					"src": "./songs/Elektronomia-Vitality.mp3"
+				}
+			]
+		}
+	],
+	"spotify playlist": [
+		{
+			"id": 1,
+			"name": "today's top hits",
+			"desc": "Lorem ipsum dolor sit amet consectetur.",
+			"img": "./assets/thumbnail (6).jpg",
+			"songs": [
+				{
+					"id": 1,
+					"title": "Au5 last heroes lush",
+					"artist": "NCS",
+					"duration": "5:00",
+					"src": "./songs/Au5-Last-Heroes-Lush.mp3"
+				},
+				{
+					"id": 2,
+					"title": "dirty palm oblivion",
+					"artist": "NCS",
+					"duration": "4:50",
+					"src": "./songs/Dirty-Palm-Oblivion.mp3"
+				},
+				{
+					"id": 3,
+					"title": "DJ-assass1n frag out",
+					"artist": "NCS",
+					"duration": "4:29",
+					"src": "./songs/DJ-ASSASS1N-Frag-Out.mp3"
+				},
+				{
+					"id": 4,
+					"title": "elektromia vitality",
+					"artist": "NCS",
+					"duration": "4:11",
+					"src": "./songs/Elektronomia-Vitality.mp3"
+				},
+				{
+					"id": 5,
+					"title": "inushuk the long road home",
+					"artist": "NCS",
+					"duration": "3:11",
+					"src": "./songs/Au5-Last-Heroes-Lush.mp3"
+				}
+			]
+		},
+		{
+			"id": 2,
+			"name": "RapCaviar",
+			"desc": "Lorem ipsum dolor sit amet consectetur.",
+			"img": "./assets/thumbnail (7).jpg",
+			"songs": [
+				{
+					"id": 1,
+					"title": "Au5 last heroes lush",
+					"artist": "NCS",
+					"duration": "5:00",
+					"src": "./songs/Au5-Last-Heroes-Lush.mp3"
+				},
+				{
+					"id": 2,
+					"title": "dirty palm oblivion",
+					"artist": "NCS",
+					"duration": "4:50",
+					"src": "./songs/Dirty-Palm-Oblivion.mp3"
+				},
+				{
+					"id": 3,
+					"title": "DJ-assass1n frag out",
+					"artist": "NCS",
+					"duration": "4:29",
+					"src": "./songs/DJ-ASSASS1N-Frag-Out.mp3"
+				},
+				{
+					"id": 4,
+					"title": "elektromia vitality",
+					"artist": "NCS",
+					"duration": "4:11",
+					"src": "./songs/Elektronomia-Vitality.mp3"
+				},
+				{
+					"id": 5,
+					"title": "inushuk the long road home",
+					"artist": "NCS",
+					"duration": "3:11",
+					"src": "./songs/Au5-Last-Heroes-Lush.mp3"
+				}
+			]
+		},
+		{
+			"id": 3,
+			"name": "all out 2010s",
+			"desc": "Lorem ipsum dolor sit amet consectetur.",
+			"img": "./assets/thumbnail (8).jpg",
+			"songs": [
+				{
+					"id": 1,
+					"title": "Au5 last heroes lush",
+					"artist": "NCS",
+					"duration": "5:00",
+					"src": "./songs/Au5-Last-Heroes-Lush.mp3"
+				},
+				{
+					"id": 2,
+					"title": "dirty palm oblivion",
+					"artist": "NCS",
+					"duration": "4:50",
+					"src": "./songs/Dirty-Palm-Oblivion.mp3"
+				},
+				{
+					"id": 3,
+					"title": "DJ-assass1n frag out",
+					"artist": "NCS",
+					"duration": "4:29",
+					"src": "./songs/DJ-ASSASS1N-Frag-Out.mp3"
+				},
+				{
+					"id": 4,
+					"title": "elektromia vitality",
+					"artist": "NCS",
+					"duration": "4:11",
+					"src": "./songs/Elektronomia-Vitality.mp3"
+				},
+				{
+					"id": 5,
+					"title": "inushuk the long road home",
+					"artist": "NCS",
+					"duration": "3:11",
+					"src": "./songs/Au5-Last-Heroes-Lush.mp3"
+				}
+			]
+		},
+		{
+			"id": 4,
+			"name": "rock classics",
+			"desc": "Lorem ipsum dolor sit amet consectetur.",
+			"img": "./assets/thumbnail (9).jpg",
+			"songs": [
+				{
+					"id": 1,
+					"title": "Au5 last heroes lush",
+					"artist": "NCS",
+					"duration": "5:00",
+					"src": "./songs/Au5-Last-Heroes-Lush.mp3"
+				},
+				{
+					"id": 2,
+					"title": "dirty palm oblivion",
+					"artist": "NCS",
+					"duration": "4:50",
+					"src": "./songs/Dirty-Palm-Oblivion.mp3"
+				},
+				{
+					"id": 3,
+					"title": "DJ-assass1n frag out",
+					"artist": "NCS",
+					"duration": "4:29",
+					"src": "./songs/DJ-ASSASS1N-Frag-Out.mp3"
+				},
+				{
+					"id": 4,
+					"title": "elektromia vitality",
+					"artist": "NCS",
+					"duration": "4:11",
+					"src": "./songs/Elektronomia-Vitality.mp3"
+				},
+				{
+					"id": 5,
+					"title": "inushuk the long road home",
+					"artist": "NCS",
+					"duration": "3:11",
+					"src": "./songs/Au5-Last-Heroes-Lush.mp3"
+				}
+			]
+		},
+		{
+			"id": 5,
+			"name": "chill hits",
+			"desc": "Lorem ipsum dolor sit amet consectetur.",
+			"img": "./assets/thumbnail (10).jpg",
+			"songs": [
+				{
+					"id": 1,
+					"title": "Au5 last heroes lush",
+					"artist": "NCS",
+					"duration": "5:00",
+					"src": "./songs/Au5-Last-Heroes-Lush.mp3"
+				},
+				{
+					"id": 2,
+					"title": "dirty palm oblivion",
+					"artist": "NCS",
+					"duration": "4:50",
+					"src": "./songs/Dirty-Palm-Oblivion.mp3"
+				},
+				{
+					"id": 3,
+					"title": "DJ-assass1n frag out",
+					"artist": "NCS",
+					"duration": "4:29",
+					"src": "./songs/DJ-ASSASS1N-Frag-Out.mp3"
+				},
+				{
+					"id": 4,
+					"title": "elektromia vitality",
+					"artist": "NCS",
+					"duration": "4:11",
+					"src": "./songs/Elektronomia-Vitality.mp3"
+				},
+				{
+					"id": 5,
+					"title": "inushuk the long road home",
+					"artist": "NCS",
+					"duration": "3:11",
+					"src": "./songs/Au5-Last-Heroes-Lush.mp3"
+				}
+			]
+		}
+	]
+}
